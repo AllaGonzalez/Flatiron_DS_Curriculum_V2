@@ -1,0 +1,114 @@
+{
+              title: "22 Links - YouTube",
+           host_url: "https://www.youtube.com/watch?v=_vZ7x_nFSl0",
+          presenter: "Jonathan Grover",
+             length: "7:13",
+     slides_summary: [
+        {
+             start_offset: "00:00",
+               end_offset: "00:19",
+                  bullets: [
+                "to link all of these pages together",
+                "before my image, I'm gonna put some links in"
+            ]
+        },
+        {
+             start_offset: "00:19",
+               end_offset: "00:50",
+                  bullets: [
+                "to put in links, we use the the <a> element",
+                "stands for anchor link",
+                "<a> tags need one attribute",
+                "which is href which stands for",
+                "Hyper reference and this is going to",
+                "tell the browser where we want",
+                "the link to go"
+            ]
+        },
+        {
+             start_offset: "00:50",
+               end_offset: "01:53",
+                  bullets: [
+                "type in an <a> tag, and use index.html as the href",
+                "in between the opening and closing a tags",
+                "is the actual linkable content",
+                "we'll type the text that we want people",
+                "to click on, 'About', so when they",
+                "click it will change them to the index page",
+                "let's create another link",
+                "on this particular link we are going to link to",
+                "the new properties HTML page",
+                "for the text that is clickable",
+                "we'll say New Properties",
+                "let's go ahead and make another link",
+                "this next one we will link to real-estate-listings.html"
+            ]
+        },
+        {
+             start_offset: "01:53",
+               end_offset: "02:37",
+                  bullets: [
+                "insert another a tag market-report.html",
+                "also put the contact.html link here",
+                "on this last link here we're",
+                "going to demonstrate linking to another website"
+            ]
+        },
+        {
+             start_offset: "02:37",
+               end_offset: "03:51",
+                  bullets: [
+                "all of these links are internal",
+                "they're all using the relative path",
+                "for this one we want to",
+                "link to the Housing and Urban Development site",
+                "so that's at http://hud.gov",
+                "here we're putting the absolute path or the full path",
+                "we'll say H.U.D. as the text"
+                "these links are going to target the current window we're in",
+                "I'm going to add an additional attribute called",
+                "'target' and if I set this to '_blank'",
+                "this is going to open a new tab in the browser"
+            ]
+        },
+        {
+             start_offset: "03:51",
+               end_offset: "05:01",
+                  bullets: [
+                "we don't actually leave our website",
+                "just bring up a different tab",
+                "save and then we'll copy these <a> links",
+                "start pasting it into the other pages"
+            ]
+        },
+        {
+             start_offset: "05:01",
+               end_offset: "05:37",
+                  bullets: [
+                "we'll insert links on all pages"
+            ]
+        },
+        {
+             start_offset: "05:37",
+               end_offset: "06:06",
+                  bullets: [
+                "now we'll have the links on every single page",
+                "save and go back to the browser"
+            ]
+        },
+        {
+             start_offset: "06:06",
+               end_offset: "7:13",
+                  bullets: [
+                "refresh and now we can see my links appear",
+                "the new properties link goes to new-properties.html",
+                "the listings link takes me to the property archive",
+                "etc...",
+                "click the Housing and Urban Development link",
+                "this is the one that is has target='_blank'",
+                "click that and it opens up a new tab"
+                "you just built your first website!"
+            ]
+        }
+    ]
+}

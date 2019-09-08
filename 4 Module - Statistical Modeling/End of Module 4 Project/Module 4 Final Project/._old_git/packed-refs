@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+ce96b92c048a52cbc1c2bd83ce231c6e1bd011a1 refs/remotes/origin/laura-fix
+970b23f3a6643cb013b343dd9400acc92f927edb refs/remotes/origin/master
+5d53b8bc8d217ef8c00940209252a6d3072edd3b refs/remotes/origin/soften-blog-reqs

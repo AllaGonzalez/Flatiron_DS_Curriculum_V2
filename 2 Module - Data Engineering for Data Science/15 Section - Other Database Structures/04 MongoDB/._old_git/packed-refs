@@ -1,0 +1,3 @@
+# pack-refs with: peeled fully-peeled sorted 
+10dcad0c1c508653f9d761de52a2593ca8d2f31b refs/remotes/origin/master
+0de65503896b7677106b3c878c1f90d3e44643bf refs/remotes/origin/vishal-wip-fix

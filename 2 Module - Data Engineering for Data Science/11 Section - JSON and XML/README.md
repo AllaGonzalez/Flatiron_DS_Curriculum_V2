@@ -1,0 +1,11 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-json-xml-intro-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-json-and-xml-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-json-and-xml-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-working-with-known-json-schemas-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-working-with-known-json-schemas-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-recursive-functions-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-recursive-functions-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-exploring-and-transforming-json-schemas-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-exploring-and-transforming-json-schemas-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-json-xml-recap-online-ds-pt-031119.git

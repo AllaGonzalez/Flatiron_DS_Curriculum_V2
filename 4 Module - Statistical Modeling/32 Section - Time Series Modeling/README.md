@@ -1,0 +1,11 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-time-series-models-introduction-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-basic-time-series-models-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-basic-time-series-models-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-corr-autocorr-in-time-series-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-corr-autocorr-in-time-series-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-arma-models-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-arma-models-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-sarima-models-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-facebook-prophet-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-time-series-models-section-recap-online-ds-pt-031119.git

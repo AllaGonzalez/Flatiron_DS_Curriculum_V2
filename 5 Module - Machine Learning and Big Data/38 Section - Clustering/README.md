@@ -1,0 +1,11 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-clustering-intro-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-k-means-clustering-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/ds-k-means-clustering-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-hierarchical-agglomerative-clustering-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-common-problems-with-clustering-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-hierarchical-agglomerative-clustering-codealong-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-market-segmentation-clustering-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-market-segmentation-clustering-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-semi-supervised-learning-and-look-alike-models-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-clustering-recap-online-ds-pt-031119.git

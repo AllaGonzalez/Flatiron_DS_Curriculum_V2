@@ -1,0 +1,17 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-probability-section-intro-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-probability-introduction-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-intro-to-sets-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-intro-to-sets-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-intro-to-probability-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-intro-to-probability-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-permutations-and-factorials-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-permutations-and-factorials-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-combinations-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-combinations-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-conditional-probability-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-conditional-probability-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-law-of-total-probability-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-law-of-total-probability-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-probability-simulations-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-probability-section-recap-online-ds-pt-031119.git

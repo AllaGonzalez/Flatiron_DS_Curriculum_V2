@@ -1,0 +1,14 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-extensions-to-linear-models-intro-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-interaction-terms-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-interaction-terms-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-polynomial-regression-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-polynomial-regression-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-bias-variance-trade-off-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-bias-variance-trade-off-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-ridge-and-lasso-regression-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-ridge-and-lasso-regression-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-feature-and-model-selection-aic-and-bic-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-feature-selection-methods-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-extensions-to-linear-models-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-extensions-to-linear-models-recap-online-ds-pt-031119.git

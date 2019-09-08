@@ -1,0 +1,17 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-linear-regression-section-intro-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-correlation-covariance-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-correlation-covariance-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-stat-learning-theory-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-simple-linear-regression-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-simple-linear-regression-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-coefficient-of-determination-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-coefficient-of-determination-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-complete-regression-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-regression-assumptions-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-ols-statsmodels-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-ols-statsmodels-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-ols-regression-diagnostics-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-significance-p-value-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-regression-boston-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-linear-regression-section-recap-online-ds-pt-031119.git

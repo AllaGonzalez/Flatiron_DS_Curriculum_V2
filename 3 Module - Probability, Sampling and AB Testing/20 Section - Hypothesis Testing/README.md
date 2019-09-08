@@ -1,0 +1,11 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-hypothesis-testing-intro-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-experimental-design-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-p-values-and-null-hypothesis-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-effect-sizes-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-t-tests-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-one-sample-t-tests-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-two-sample-t-tests-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-type-1-and-2-error-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-type-1-and-2-error-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-hypothesis-testing-section-recap-online-ds-pt-031119.git

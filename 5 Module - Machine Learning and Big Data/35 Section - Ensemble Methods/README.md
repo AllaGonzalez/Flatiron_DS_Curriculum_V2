@@ -1,0 +1,12 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-ensemble-methods-section-intro-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-ensemble-methods-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-random-forests-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-tree-ensembles-random-forests-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-gridsearchcv-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-gridsearchcv-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-gradient-boosting-and-weak-learners-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-gradient-boosting-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-xgboost-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-xgboost-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-ensemble-methods-section-recap-online-ds-pt-031119.git

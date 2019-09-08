@@ -1,0 +1,17 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-calculus-introduction-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-derivatives-intro-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-derivatives-intro-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-derivatives-of-non-linear-functions-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-rules-for-derivatives-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-rules-for-derivatives-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-derivatives-chain-rule-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-derivatives-conclusion-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-gradient-descent-intro-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-gradient-descent-step-sizes-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-gradient-descent-step-sizes-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-gradient-descent-in-3d-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-the-gradient-in-gradient-descent-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-gradient-to-cost-function-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-applying-gradient-descent-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-calculus-section-recap-online-ds-pt-031119.git

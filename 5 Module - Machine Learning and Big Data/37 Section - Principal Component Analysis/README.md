@@ -1,0 +1,13 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-pca-introduction-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-unsupervised-learning-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-curse-of-dimensionality-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-curse-of-dimensionality-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-pca-in-scikitlearn-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-pca-in-scikitlearn-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-pca-covariance-matrix-eigendecomp-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-performing-principal-component-analysis-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-pca-numpy-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-pca-and-digital-image-processing-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-pca-and-digital-image-processing-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-pca-summary-online-ds-pt-031119.git

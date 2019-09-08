@@ -1,0 +1,15 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-logistic-regression-intro-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-linear-to-logistic-regression-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-fitting-a-logistic-regression-model-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-logistic-regression-in-scikit-learn-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-logistic-regression-in-scikit-learn-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-confusion-matrices-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-visualizing-confusion-matrices-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-evaluation-metrics-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-evaluating-logistic-regression-models-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-roc-curves-and-auc-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-roc-curves-and-auc-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-class-imbalance-problems-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-class-imbalance-problems-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-logistic-regression-section-recap-online-ds-pt-031119.git

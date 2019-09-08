@@ -1,0 +1,12 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-statistical-power-anova-introduction-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-statistical-power-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-statistical-power-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-welchs-ttest-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-welchs-ttest-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-effect-sizes-pvalues-and-power-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-multiple-comparisons-problem-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-goodharts-law-and-metric-tracking-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-anova-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-anova-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-statistical-power-anova-recap-online-ds-pt-031119.git

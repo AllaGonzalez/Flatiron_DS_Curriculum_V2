@@ -1,0 +1,13 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-full-ds-regression-intro-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-data-science-toolbox-review-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-data-science-processes-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-obtaining-your-data-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-obtaining-your-data-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-scrubbing-and-cleaning-data-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-scrubbing-and-cleaning-data-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-exploring-your-data-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-exploring-your-data-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-modeling-your-data-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-modeling-your-data-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-full-ds-regression-recap-online-ds-pt-031119.git

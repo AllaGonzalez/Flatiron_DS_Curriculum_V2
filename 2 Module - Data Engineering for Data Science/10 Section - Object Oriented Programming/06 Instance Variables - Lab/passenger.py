@@ -1,0 +1,1 @@
+# define passenger class here

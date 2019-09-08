@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+81f25b7ab356f44828ec4166b36508579ec07ecd refs/remotes/origin/curriculum
+aacfcb9297a24ac77a77797bcf5731102b38cb26 refs/remotes/origin/john-smith
+13724d923fe827c39f25ecaaee60409e5eabdb78 refs/remotes/origin/master
+672425be63ba95c7b3cdccc8e29f618090bec498 refs/remotes/origin/solution

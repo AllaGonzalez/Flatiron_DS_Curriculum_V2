@@ -1,0 +1,14 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-bayesian-stats-introduction-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-bayes-theorem-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-bayes-theorem-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-monty-hall-problem-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-mle-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-map-multinomial-bayes-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-bayesians-vs-frequentists-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-classifiers-with-bayes-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-gaussian-naive-bayes-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-gaussian-naive-bayes-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-document-classification-with-naive-bayes-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-document-classification-with-naive-bayes-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-bayesian-stats-recap-online-ds-pt-031119.git

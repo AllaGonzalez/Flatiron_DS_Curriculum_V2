@@ -1,0 +1,12 @@
+
+- Repo added: https://github.com/learn-co-students/dsc-monte-carlo-section-intro-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-probability-distributions-recap-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-kolmogorov-smirnov-test-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-komogorov-smirnov-test-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-generating-data-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-generating-data-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-resampling-methods-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-resampling-methods-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-monte-carlo-simulations-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-monte-carlo-simulations-lab-online-ds-pt-031119.git
+- Repo added: https://github.com/learn-co-students/dsc-monte-carlo-section-recap-online-ds-pt-031119.git
